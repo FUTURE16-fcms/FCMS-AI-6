@@ -1,0 +1,25 @@
+{
+  "name": "FCMS-AI \u2013 Smart Faculty Timetable Assistant",
+  "short_name": "FCMS-AI",
+  "description": "Smart faculty timetable, live classes, upcoming classes, substitute planner, class counts and tasks.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6fb",
+  "theme_color": "#6d4aff",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
